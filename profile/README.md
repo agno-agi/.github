@@ -13,13 +13,13 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.agno.com">Docs</a>
-  &nbsp;·&nbsp;
-  <a href="https://os.agno.com">AgentOS UI</a>
-  &nbsp;·&nbsp;
   <a href="https://os.agno.com/try-demo">Try Demo</a>
   &nbsp;·&nbsp;
-  <a href="https://x.com/AgnoAgi">X</a>
+  <a href="https://docs.agno.com">Read Docs</a>
+  &nbsp;·&nbsp;
+  <a href="https://os.agno.com">Try AgentOS</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/AgnoAgi">Follow on X</a>
   &nbsp;·&nbsp;
   <a href="https://www.agno.com/the-agno-loop-newsletter">Newsletter</a>
 </p>
