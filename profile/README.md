@@ -26,7 +26,7 @@
 
 ## Start here
 
-- [**agno**](https://github.com/agno-agi/agno). The SDK for building agent platforms. Build agents using any framework, run them as production services with tracing, scheduling, and RBAC, and manage everything from a single control plane. Own your agent stack: your cloud, your data, your database.
+- [**agno**](https://github.com/agno-agi/agno). The SDK for building agent platforms. Build agents using any framework, run them as production services with tracing, scheduling, and RBAC. Manage everything from a single control plane. Own your agent stack: your cloud, your data, your database.
 - [**docs**](https://docs.agno.com). Documentation for everything Agno. Build your [first agent in 20 lines of code](https://docs.agno.com/first-agent).
 - [**AgentOS UI**](https://os.agno.com). The control plane for your agent platform. Chat with agents, inspect sessions, traces, memory, and evals.
 
